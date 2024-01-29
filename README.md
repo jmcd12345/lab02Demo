@@ -1,2 +1,2 @@
-# lab02Repo
+# lab02Demo
 lab from week 2
