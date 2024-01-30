@@ -1,0 +1,20 @@
+
+<title>Game Violence 02</title>
+<link rel="stylesheet" href="gui.css">
+
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    border: thin solid grey;
+}
+
+.headicon{
+    width:150px;
+}
+
+.topheader{
+    display: flex;
+    background-color: #E6E6E6;
+    font-family: 'Courier New', Courier, monospace;
+}
